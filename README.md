@@ -2,7 +2,7 @@
 
 Basic Go API for learning purposes
 
-# Run me daddy
+# Run me!
 
 1. Install Docker
 2. Run `docker-compose up`
